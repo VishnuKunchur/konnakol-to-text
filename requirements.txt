@@ -1,0 +1,10 @@
+# apt install ffmpeg
+pydub
+librosa
+torch
+transformers
+datasets
+openai
+jiwer
+evaluate
+accelerate
